@@ -50,6 +50,7 @@ function checkWinner() {
 
     if(userChoice === pickRandomChoice){
         //draw
+        updateScore(0);
         winner.innerText = 'draw';
     }
     else if (
