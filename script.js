@@ -48,7 +48,7 @@ function checkWinner() {
     updateSelection(user_select, userChoice);
     updateSelection(computer_select, computerChoice);
 
-    if(userChoice === pickRandomChoice){
+    if (userChoice === computerChoice){
         //draw
         updateScore(0);
         winner.innerText = 'draw';
