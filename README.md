@@ -1,4 +1,5 @@
-# Frontend Mentor - Rock, Paper, Scissors [Watch Live](https://rock-paper-scissors-gamee.netlify.app/)
+# Frontend Mentor - Rock, Paper, Scissors 
+## [Watch Live](https://rock-paper-scissors-gamee.netlify.app/)
 
 ![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
 
